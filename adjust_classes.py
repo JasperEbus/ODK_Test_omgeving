@@ -1,8 +1,8 @@
 import os
 import glob
 
-retrieve_path = r'C:\Users\JEbus\OneDrive - ilionx Group BV\ODK\Fotos\Roboflow\labels'
-save_path = r'C:\Users\JEbus\OneDrive - ilionx Group BV\ODK\Fotos\Roboflow\adjusted_labels'
+retrieve_path = r'C:\Users\JEbus\OneDrive - ilionx Group BV\ODK\Fotos\Roboflow\2021-03-24\labels_raw'
+save_path = r'C:\Users\JEbus\OneDrive - ilionx Group BV\ODK\Fotos\Roboflow\2021-03-24\labels'
 
 # get list of paths to all .txt files in folder
 os.chdir(retrieve_path)
