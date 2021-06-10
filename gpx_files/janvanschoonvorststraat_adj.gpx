@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Vivosport" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <metadata>
+    <link href="https://gotoes.org/strava/Combine_GPX_TCX_FIT_Files.php">
+      <text>GOTOES STRAVA TOOLS</text>
+    </link>
+    <desc>Created with GOTOES STRAVA TOOLS Version 12.8</desc>
+    <time>2021-04-28T11:02:54Z</time>
+  </metadata>
+  <trk>
+    <name>GOTOES Export</name>
+    <type>Running</type>
+    <trkseg>
+      <trkpt lon="5.486385" lat="51.432835">
+        <ele>20.1</ele>
+        <time>2021-04-28T11:02:54Z</time>
+      </trkpt>
+      <trkpt lon="5.486358" lat="51.432771">
+        <ele>19.9</ele>
+        <time>2021-04-28T11:02:56Z</time>
+      </trkpt>
+      <trkpt lon="5.486325" lat="51.432695">
+        <ele>19.8</ele>
+        <time>2021-04-28T11:02:59Z</time>
+      </trkpt>
+      <trkpt lon="5.486292" lat="51.432617">
+        <ele>19.7</ele>
+        <time>2021-04-28T11:03:01Z</time>
+      </trkpt>
+      <trkpt lon="5.486292" lat="51.432617">
+        <ele>19.7</ele>
+        <time>2021-04-28T11:03:02Z</time>
+      </trkpt>
+      <trkpt lon="5.486272" lat="51.432571">
+        <ele>19.8</ele>
+        <time>2021-04-28T11:03:03Z</time>
+      </trkpt>
+      <trkpt lon="5.486264" lat="51.432535">
+        <ele>19.8</ele>
+        <time>2021-04-28T11:03:04Z</time>
+      </trkpt>
+      <trkpt lon="5.486264" lat="51.432499">
+        <ele>19.8</ele>
+        <time>2021-04-28T11:03:06Z</time>
+      </trkpt>
+      <trkpt lon="5.486263" lat="51.432457">
+        <ele>19.8</ele>
+        <time>2021-04-28T11:03:07Z</time>
+      </trkpt>
+      <trkpt lon="5.486289" lat="51.432433">
+        <ele>19.7</ele>
+        <time>2021-04-28T11:03:08Z</time>
+      </trkpt>
+      <trkpt lon="5.486331" lat="51.432395">
+        <ele>19.6</ele>
+        <time>2021-04-28T11:03:10Z</time>
+      </trkpt>
+      <trkpt lon="5.486412" lat="51.432321">
+        <ele>19.3</ele>
+        <time>2021-04-28T11:03:13Z</time>
+      </trkpt>
+      <trkpt lon="5.486412" lat="51.432321">
+        <ele>19.3</ele>
+        <time>2021-04-28T11:03:14Z</time>
+      </trkpt>
+      <trkpt lon="5.486536" lat="51.432216">
+        <ele>19</ele>
+        <time>2021-04-28T11:03:18Z</time>
+      </trkpt>
+      <trkpt lon="5.486611" lat="51.432247">
+        <ele>19</ele>
+        <time>2021-04-28T11:03:20Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
