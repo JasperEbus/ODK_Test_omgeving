@@ -1,3 +1,8 @@
+##################################################################
+'''File created for changing the classes from Roboflow output to
+   the format of the input required for the ODK model'''
+##################################################################
+
 import os
 import glob
 

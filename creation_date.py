@@ -1,3 +1,7 @@
+#####################################################################
+'''Script for getting the creation data in the metadata of a video'''
+#####################################################################
+
 from hachoir.parser import createParser
 from hachoir.metadata import extractMetadata
 

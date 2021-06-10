@@ -1,3 +1,9 @@
+###############################################################
+'''Script for simple visually comparing the ODK models,
+   The findings are compared to the baseline - manually
+   created annotations using Roboflow'''
+###############################################################
+
 import json
 import glob
 import os

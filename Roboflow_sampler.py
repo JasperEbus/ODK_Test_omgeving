@@ -1,3 +1,9 @@
+##################################################################
+'''File created for storing info about the annotations in Roboflow
+   Pathnames are stored in garb_test.txt
+   Dimensions of images are stored in garb_test.names'''
+##################################################################
+
 import os
 import glob
 import cv2
